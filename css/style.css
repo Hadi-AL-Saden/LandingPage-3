@@ -6,7 +6,13 @@
     --dark: #04000B;
 }
 
-
+#errorMassage{
+    text-align: center;
+    color: red;
+    font-size: large;
+    display: none;
+    padding-top: 20px;
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
